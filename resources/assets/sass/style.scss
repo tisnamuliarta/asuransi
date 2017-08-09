@@ -1,0 +1,63 @@
+@import "./admin/paper-dashboard.scss";
+.icon-big {
+    font-size: 3em;
+    min-height: 64px;
+}
+
+
+.form-horizontal .form-group {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.input {
+	input {
+		border: 1px solid #ccd0d2;
+	}
+}
+
+.navbar-default {
+	background-color: white;
+	border-top: 5px solid #ffa100;
+}
+
+.active {
+	border-bottom: 1px solid #ffa100;
+	padding-bottom: 5px;
+	transition: all 0.3s ease-in-out;
+	a {
+		color: #ffa100!important;
+	}
+}
+
+.navbar .navbar-nav > li > a {
+    line-height: 1.42857;
+    margin: 10px 3px 8px;
+    padding: 0px 10px;
+}
+
+.navbar .navbar-brand {
+    font-weight: 600;
+    margin: 5px 0px;
+    padding: 10px 15px;
+    font-size: 22px;
+}
+
+.img-small {
+	width: 40px;
+	display:inline;
+	margin-top: 0px;
+}
+
+.img-round {
+	border-radius: 50%;
+}
+
+.form-control {
+	border: 1px solid #eee;
+	background-color: white;
+}
+
+// shadow effect
+.shadow {
+	box-shadow: 0px 5px 46px 0 rgba(0,0,0, 0.2);
+}

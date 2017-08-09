@@ -1,0 +1,9 @@
+#instantclick-bar {
+  background: #000;
+}
+
+.sidebar-menu li.active > .treeview-menu {
+  display: block !important;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInJlc291cmNlcy9hc3NldHMvc2Fzcy9zdHlsZS5zYXNzIl0sInNvdXJjZXNDb250ZW50IjpbIiNpbnN0YW50Y2xpY2stYmFyIHtcbiAgICBiYWNrZ3JvdW5kOiAjMDAwOyB9XG5cbi5zaWRlYmFyLW1lbnUgbGkuYWN0aXZlID4gLnRyZWV2aWV3LW1lbnUge1xuXHRkaXNwbGF5OiBibG9jayFpbXBvcnRhbnQ7IH1cblxuXG4iXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsQUFBQSxpQkFBaUIsQ0FBQztFQUNkLFVBQVUsRUFBRSxJQUFJO0NBQUk7O0FBRXhCLEFBQTBCLGFBQWIsQ0FBQyxFQUFFLEFBQUEsT0FBTyxHQUFHLGNBQWMsQ0FBQztFQUN4QyxPQUFPLEVBQUUsS0FBSyxDQUFBLFVBQVU7Q0FBRyJ9 */
